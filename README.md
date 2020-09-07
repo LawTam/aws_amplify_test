@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-two/
 
 ## Available Scripts
 
@@ -67,8 +68,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# aws_amplify_test
-
-for learning AWS Amplify
->>>>>>> 26ff031b3901aea068baa6fbb5aa3f3ba20bfbe7
